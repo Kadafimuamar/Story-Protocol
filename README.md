@@ -3,7 +3,7 @@
 - Open [Codespace](https://github.com/codespaces) or [Gitpod](https://gitpod.io/workspaces)
 - Clone this repo using below mentioned command
 ```bash
-git clone https://github.com/dxzenith/Story-Protocol.git && cd Story-Protocol
+git clone https://github.com/Kadafimuamar/Story-Protocol.git && cd Story-Protocol
 ```
 - Add your sepolia wallet's private key (without 0x) to `.env` file using below command
 ```bash
